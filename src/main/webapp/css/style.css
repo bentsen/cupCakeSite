@@ -1,0 +1,104 @@
+.bannerImg
+{
+    height: 100%;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 4px;
+}
+
+.btn-primary:hover
+{
+    background-color: #685540; !important;
+    color: #685540; !important;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #d6b387 !important;
+    border: #d6b387 !important;
+}
+
+th
+{
+    font-weight: bold;
+}
+.small-btn {
+    width: 50px;
+    height: 25px;
+}
+
+.bannerText
+{
+    color: #ababab;
+    margin-left: 10px;
+}
+
+
+.icon
+{
+    color: #d6b387;
+}
+
+.mainPageButton
+{
+    position: sticky;
+    left: 45%;
+}
+
+
+.loggedInName
+{
+    color: #d6b387;
+    display:inline-block;
+    margin-top: 4px;
+    margin-right: 4px;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 20px;
+
+}
+
+.basketIcon
+{
+    white-space: nowrap;
+    color: #d6b387;
+    position: relative; bottom: 28%;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bannerName
+{
+    color: #d6b387;
+    background-color: #d6b387;
+}
+
+.homePageIcon
+{
+    color: #d6b387;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1px;
+}
+
+.bannerSize
+{
+    height: 45px;
+    background: #e9ecef;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-top: 1px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+h4
+{
+    text-align: center;
+}
